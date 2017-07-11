@@ -1,2 +1,2 @@
 # node-blog
-node+express全栈开发
+node+express+jade全栈开发
